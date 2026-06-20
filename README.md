@@ -5,10 +5,15 @@
 
 -Today is the beginning of the project by the creating this repository on github(20.06.2026)
 -There will be 5 main files during project progress,they are;
+
      -3D Designs
+     
      -All Codes
+     
      -Electronics Design
+     
      -General Project Files(plan,cost,inventory etc.)
+     
      -Project Diary PDF which talks about the project's daily step by step progress
 
 ---------------General idea----------------
