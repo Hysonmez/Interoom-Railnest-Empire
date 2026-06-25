@@ -38,6 +38,7 @@
 -------------------------------------STEP 1) Creating First train and line------------------------------------------
 
 -----------Update-1-25/06/2026-------------
+
 1-Added first rail design which similar idea to brio/ikea rail system. Maybe it can change because of their diretional designs in future. Can be found on 3D designs section.
 
 2- I learned PWM signals. I learned for motor driving servo and dc for using on trains and switches. I made a small test unit with esp32 to drive a micro servo motor. Codes can be found on all codes section.
