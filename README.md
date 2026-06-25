@@ -17,11 +17,11 @@
      -Project Diary PDF which talks about the project's daily step by step progress
 
 ---------------General idea----------------
-- Creating a train railway netwoek which connect all rooms of house. Project in my dream includes lots of idea. All of them are listed below;
+- Creating a train railway network which connect all rooms of house. Project in my dream includes lots of idea. All of them are listed below;
 - Fully automated train control via server
 - Advanced Train control algorithms(deep math)
-- Charging dock station on train depot(ı am not planning give energy to trains from rails or cables.All of them will be battery powered)
-- Fully 3d printed rails which hold a 4 cable(two of them power,other two is a signal)
+- Charging dock station on train depot(I am not planning give energy to trains from rails or cables.All of them will be battery powered)
+- Fully 3d printed rails which holds a 4 cables(two of them power,other two is a signal)
 - Using RFID to location detecting.(In future,wagon detecting and measuring train lenght to advanced algorithms are in my mind)
 - Rushour passenger simulation on passenger trains
 - Beatiful and well look station,train and environment designs
